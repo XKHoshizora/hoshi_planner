@@ -1,0 +1,7 @@
+<libreary path="lib/libhoshi_planner">
+    <class name="hoshi_planner/HoshiPlanner" type="hoshi_planner_plugin::HoshiPlanner" base_class_type="nav_core::BaseLocalPlanner">
+        <description>
+            This plugin implements the Hoshi planner.
+        </description>
+    </class>
+</libreary>
